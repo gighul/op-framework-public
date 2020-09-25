@@ -973,7 +973,7 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		basic_lockpick = "Podstawowy wytrych",
 		basic_lockpick_description = "Możesz otwierać zamki",
 		advanced_lockpick = "Zaawansowany wytrych",
-		advanced_lockpick_description = "Chowaj dzieci, chowaj żonę͡° ͜ʖ ͡°",
+		advanced_lockpick_description = "Z tym wytrychem otworzysz nawet najlepiej zabezpieczone zamki,
 		cleaning_kit = "Zestaw do czyszczenia",
 		cleaning_kit_description = "Idealne narzędzia do czyszczenia brudu z samochodu lub ludzkiej krwi z bagażnika.",
 
@@ -1702,7 +1702,7 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		vending_soda_not_enough_cash = "Nie masz wystarczająco dużo gotówki, żeby kupić napój. Koszt to $${cost}.",
 		vending_water = "Naciśnij ~INPUT_CONTEXT~ żeby kupić butelkę z wodą. Koszt to $${cost}.",
 		vending_water_not_enough_cash = "Nie masz wystarczająco dużo gotówki, żeby kupić butelkę z wodą. Koszt to $${cost}.",
-		vending_machine_damaged = "TTen automat jest uszkodzony. Proszę sprawdzić ponownie później.",
+		vending_machine_damaged = "Ten automat jest uszkodzony. Proszę sprawdzić ponownie później.",
 		vending_water_cooler = "Naciśnij ~INPUT_CONTEXT~ żeby dostać kubek wody."
 	},
 
